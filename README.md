@@ -1,0 +1,2 @@
+# ljo
+Log Just Once 
